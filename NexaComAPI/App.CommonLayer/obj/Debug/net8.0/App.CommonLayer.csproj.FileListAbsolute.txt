@@ -1,0 +1,11 @@
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\bin\Debug\net8.0\App.CommonLayer.deps.json
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\bin\Debug\net8.0\App.CommonLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\bin\Debug\net8.0\App.CommonLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\App.CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\App.CommonLayer.AssemblyInfoInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\App.CommonLayer.AssemblyInfo.cs
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\App.CommonLayer.csproj.CoreCompileInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\App.CommonLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\refint\App.CommonLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\App.CommonLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.CommonLayer\obj\Debug\net8.0\ref\App.CommonLayer.dll

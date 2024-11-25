@@ -1,0 +1,14 @@
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\bin\Debug\net8.0\TestDb.deps.json
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\bin\Debug\net8.0\TestDb.runtimeconfig.json
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\bin\Debug\net8.0\TestDb.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\bin\Debug\net8.0\TestDb.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.csproj.AssemblyReference.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.AssemblyInfoInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.AssemblyInfo.cs
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.csproj.CoreCompileInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\refint\TestDb.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\TestDb.genruntimeconfig.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\TestDb\obj\Debug\net8.0\ref\TestDb.dll

@@ -1,0 +1,17 @@
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\bin\Debug\net8.0\App.ServiceLayer.deps.json
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\bin\Debug\net8.0\App.ServiceLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\bin\Debug\net8.0\App.ServiceLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\bin\Debug\net8.0\App.CommonLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\bin\Debug\net8.0\App.DataAccessLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\bin\Debug\net8.0\App.CommonLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\bin\Debug\net8.0\App.DataAccessLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.ServiceLayer.csproj.AssemblyReference.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.ServiceLayer.AssemblyInfoInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.ServiceLayer.AssemblyInfo.cs
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.Serv.B1D5915C.Up2Date
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.ServiceLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\refint\App.ServiceLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\App.ServiceLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.ServiceLayer\obj\Debug\net8.0\ref\App.ServiceLayer.dll

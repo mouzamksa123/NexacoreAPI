@@ -1,0 +1,14 @@
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\bin\Debug\net8.0\App.DataAccessLayer.deps.json
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\bin\Debug\net8.0\App.DataAccessLayer.runtimeconfig.json
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\bin\Debug\net8.0\App.DataAccessLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\bin\Debug\net8.0\App.DataAccessLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.AssemblyInfo.cs
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\refint\App.DataAccessLayer.dll
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.pdb
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\App.DataAccessLayer.genruntimeconfig.cache
+D:\Projects\NexaCommerce\NexaComAPI\NexaComAPI\App.DataAccessLayer\obj\Debug\net8.0\ref\App.DataAccessLayer.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1IRFSRnAevWqLoP5xx7mRiwTcz6KOzwMRInnIgCLY4o=",
+  "Source": "NexaComAPI",
+  "BasePath": "_content/NexaComAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
